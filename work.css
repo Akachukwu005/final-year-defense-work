@@ -1,0 +1,77 @@
+*{
+    padding:0;
+    box-sizing: border-box;
+    margin:0;
+}
+.main-body{
+    font-family: Arial;
+   background-size: cover;
+   background-image: url(../image/ok.jpg); 
+}
+.list-item{
+  display:inline-block;  
+  margin-left: 50px;
+}
+.nav-item{
+    padding-top:50px;
+    margin-left: 600px;
+}
+.link-item{
+    color: #000;;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.list-item :hover{
+    border-bottom: 3px solid #fff;
+}
+.item{
+    margin-left: -500px;
+    color: white;
+    font-size: 1.6em;
+}
+.second-body{
+    display: flex;
+   justify-content: space-around;
+    padding: 100px 0px 0px 50px;
+}
+.sb-text1{
+    font-size: 2.5em;
+    font-weight: 800;
+}
+.login-btn{
+    padding: 10px;
+    font-weight: bolder;
+    background-color:#fff;
+    color:#000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn{
+    padding: 10px 20px; 
+}
+.third-body{
+    display: flex;
+padding:100px 0px 30px 0px;
+}
+.third-body1{
+    background-color: rgb(89, 153, 216);
+    padding: 60px 25px;
+    border-radius: 10px;
+}
+.body2{
+   background-color: rgb(209, 225, 231); 
+   border-radius: 10px;
+}
+.body3{
+    margin-right:30px;
+}
+.btn2{
+    text-decoration: none;
+    padding:10px;
+    background-color: #fff;
+    border-radius: 25px;
+    color:#000;
+}
+.text-2{
+    font-size:1.1em;
+}

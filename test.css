@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body{
+    margin: 20px auto;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(72, 186, 206);
+}
+
+.main-div{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 50px;
+}
+.menu-option{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(72, 186, 206);
+    
+    border-radius: 5px;
+    font-size:1.2em ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(65, 53, 53, 0.788);
+  
+}
+.lab-text{
+    color: rgba(65, 53, 53, 0.788);
+    font-size:1.2em ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn{
+    padding: 10px 20px ;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(65, 53, 53, 0.788);
+}
